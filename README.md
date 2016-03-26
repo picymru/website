@@ -2,7 +2,7 @@
 
 We're committed to being open about how we work, so how better than to completely open source our website!
 
-## Licence
+## License
     MIT License
     
     Copyright (c) 2016 Matthew Gall
