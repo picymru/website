@@ -1,0 +1,47 @@
+</div>
+</div>
+<footer>
+    <div class="container">
+        <div class="twocolumn-two-left">
+            <ul>
+                <li>Supported by...</li>
+                <li><a href="https://cardiff.gov.uk" target="_blank">Cardiff Council</a></li>
+            </ul>
+
+            <ul>
+                <li>Follow us on...</li>
+                <li><a href="https://twitter.com/picymru" target="_blank">Twitter</a></li>
+                <li><a href="https://facebook.com/picymru" target="_blank">Facebook</a></li>
+                <li><a href="irc://irc.freenode.net/picymru" target="_blank">IRC</a></li>
+            </ul>
+
+            <ul>
+                <li>Code with us on...</li>
+                <li><a href="https://github.com/picymru" target="_blank">GitHub</a></li>
+                <li><a href="https://bitbucket.org/picymru" target="_blank">Bitbucket</a></li>
+            </ul>
+
+            <div class="clearfix"></div>
+        </div>
+
+        <div class="twocolumn-two-right">
+            <small>
+                &copy; 2014 - 2016 PiCymru. Raspberry Pi is a trademark of the Raspberry Pi Foundation. PiCymru is a volunteer-led, not for profit group and is in no way affiliated with the Raspberry Pi Foundation.
+			</small>
+        </div>
+
+    <div class="clearfix"></div>
+</div>
+
+</footer>
+
+{{ if eq .Title "PiCymru" }}
+    <!-- Defer loading of JavaScript -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/assets/js/jquery-migrate-1.2.1.js"></script>
+    <script src="/assets/js/stellar.js"></script>
+    <script src="/assets/js/client.js"></script>
+{{end}}
+
+</body>
+</html>

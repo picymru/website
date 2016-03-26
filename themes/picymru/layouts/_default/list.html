@@ -1,0 +1,32 @@
+{{ partial "headerSmall" . }}
+    {{ partial "single/hero" . }}
+    <section id="content" class="content">
+        <div class="container">
+            <div class="onecolumn">
+                {{ $paginator := .Paginator }}
+
+                {{ range $index, $page := .Paginator.Pages }}
+                    <h2>{{ .Title }}</h2>
+                    <div class="blog-item">
+                        {{if ne .Params.posttype "project"}}
+                        <h6 class="date"><span class="icon-calendar"></span>
+                            {{if eq .Params.posttype "event"}}
+                                {{ .Params.eventtime }}
+                            {{else}}
+                                {{ .Date.Format "2 January 2006 15:04" }}
+                            {{end}}
+                        </h6>
+                        {{end}}
+                        
+                        <p>{{ .Summary }}</p>
+                        
+                        {{if eq .Params.posttype "event"}}
+                            <a href="{{ .Params.eventurl }}">View event page &raquo;</a> |
+                        {{end}}
+                        <a href="{{ .RelPermalink }}">Read more &raquo;</a>
+                    </div>
+                {{ end }}
+            </div>
+        </div>
+    </section>
+{{ partial "footer" . }}
