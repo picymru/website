@@ -16,4 +16,4 @@ COPY . /app
 
 EXPOSE 80
 
-CMD ["run.sh"]
+CMD ["/app/run.sh"]
