@@ -1,0 +1,1 @@
+hugo server --bind $HOST --port $PORT
