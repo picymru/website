@@ -16,4 +16,4 @@ COPY . /app
 
 EXPOSE 80
 
-CMD ["hugo","server","--bind","$HOST","--port","$PORT"]
+CMD ["hugo","server","--bind",$HOST,"--port",$PORT]
