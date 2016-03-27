@@ -4,6 +4,23 @@
 
 We're committed to being open about how we work, so how better than to completely open source our website!
 
+## Building
+    docker build -t picymru/website .
+
+## Running
+### Using docker
+    docker run -e HOST=0.0.0.0 -e PORT=80 -p 80:80 quay.io/picymru/website
+### Using docker-compose
+    version: '2'
+    services:
+      picymru:
+        image: quay.io/picymru/website
+        ports:
+          - "80:80"
+        environment:
+          - HOST=0.0.0.0
+          - PORT=80
+    
 ## License
     MIT License
     
