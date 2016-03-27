@@ -1,5 +1,7 @@
 # picymru/website
 
+[![Docker Repository on Quay](https://quay.io/repository/picymru/website/status "Docker Repository on Quay")](https://quay.io/repository/picymru/website)
+
 We're committed to being open about how we work, so how better than to completely open source our website!
 
 ## License
