@@ -1,6 +1,6 @@
 # picymru/website
 
-[![Docker Repository on Quay](https://quay.io/repository/picymru/website/status "Docker Repository on Quay")](https://quay.io/repository/picymru/website)[![GitHub license](https://img.shields.io/github/license/picymru/website.svg)]()
+[![Docker Repository on Quay](https://quay.io/repository/picymru/website/status "Docker Repository on Quay")](https://quay.io/repository/picymru/website) [![GitHub license](https://img.shields.io/github/license/picymru/website.svg)]()
 
 We're committed to being open about how we work, so how better than to completely open source our website!
 
