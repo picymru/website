@@ -2,6 +2,7 @@
 date = "2014-04-28T13:37:00Z"
 title = "Welcome to PiCymru"
 postType = "blog"
+categories = ["picymru", "website"]
 +++
 
 Hello there and welcome to the brand new PiCymru website.

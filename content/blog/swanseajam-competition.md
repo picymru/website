@@ -2,6 +2,7 @@
 date = "2016-03-26T22:47:31Z"
 postType = "blog"
 title = "Fancy winning a Raspberry Pi?"
+categories = ["events", "swanseajam2016"]
 +++
 
 To celebrate the return of PiCymru and our next event, Swansea Jam 2016, we're going to be giving away **three** Raspberry Pi Starter Kits, with everything the determined amateur (or expert) needs to get started with the Raspberry Pi...
