@@ -17,6 +17,17 @@ Voices from not just Wales, but all over the world. We're still waiting for conf
 ### Schedule
 We have an action packed schedule lined up, we're just waiting for confirmations! Stay tuned!
 
+### FAQs
+#### What are my transport/parking options getting to the event?
+##### By Rail
+Getting to the venue by rail has never been easier, with Swansea Railway Station a 4 minute walk away!
+
+#### The name on the registration/ticket doesn't match the attendee. Is that okay?
+Perfectly fine!
+
+#### I'd love to talk at the event / have an idea / would love to help!
+Great! We'd love to hear from you, just drop us an e-mail to hello@picymru.org.uk
+
 ### At a glance
 #### When
 Sunday, 15 May 2016 from 10:00 to 16:00 (BST)
