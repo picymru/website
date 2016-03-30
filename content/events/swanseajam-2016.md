@@ -21,6 +21,10 @@ We have an action packed schedule lined up, we're just waiting for confirmations
 #### What are my transport/parking options getting to the event?
 ##### By Rail
 Getting to the venue by rail has never been easier, with Swansea Railway Station a 4 minute walk away!
+##### By Car
+There is free parking available at the nearby Mariner Street Car Park opposite the train station.
+##### By Bus
+The venue is around an 11 minute walk from the main bus station in Swansea.
 
 #### The name on the registration/ticket doesn't match the attendee. Is that okay?
 Perfectly fine!
