@@ -12,7 +12,13 @@ Join us for a day of talks, demos and Raspberry Pi related activities.
 There will be a show and tell area so please feel free to bring along own projects to demo whether they are Pi, Arduino, Microbit or something else.
 
 ### Speakers
-Voices from not just Wales, but all over the world. We're still waiting for confirmations, so stay tuned!
+#### Colin Sauze
+##### Kivy: Building touchscreen interfaces in Python
+Innovative user interfaces made easy. Kivy is an open source, cross-platform Python framework for the development of applications that make use of innovative, multi-touch user interfaces. The aim is to allow for quick and easy design.
+
+Join Colin Sauze from Aberystwyth University, as he shows you just how to get started!
+
+**More speakers to be announced soon!**
 
 ### Schedule
 We have an action packed schedule lined up, we're just waiting for confirmations! Stay tuned!
