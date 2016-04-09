@@ -50,3 +50,6 @@ Sunday, 15 May 2016 from 10:00 to 16:00 (BST)
 
 #### Where
 TechHub Swansea - Urban Village 221 High Street SA1 1NW, United Kingdom [map](https://maps.google.com/?saddr=Current+Location&daddr=51.6232785,-3.942076899999961&driving)
+
+#### Tickets
+Ticket booking services provided by Eventbrite. To reserve tickets, for free, [click here](http://swanseajam2016.eventbrite.com/?aff=picymru)
