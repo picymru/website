@@ -18,6 +18,12 @@ Innovative user interfaces made easy. Kivy is an open source, cross-platform Pyt
 
 Join Colin Sauze from Aberystwyth University, as he shows you just how to get started!
 
+#### Douglas Gore
+##### Raspberry Pi: The British computer that changed the world
+The Raspberry Pi is a phenomenon. Launched in 2012, undergoing 7 different generations, over the last 4 years, has sold more than **8 million** devices worldwide and best of all, it's manufactured in Wales.
+
+Join Douglas Gore, co-founder of PiCymru as he talks about its lasting effect on the world.
+
 **More speakers to be announced soon!**
 
 ### Schedule
