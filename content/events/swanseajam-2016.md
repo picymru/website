@@ -24,6 +24,10 @@ The Raspberry Pi is a phenomenon. Launched in 2012, undergoing 7 different gener
 
 Join Douglas Gore, co-founder of PiCymru as he talks about its lasting effect on the world.
 
+#### Finley Watson
+##### @welshgeekboy and #Lobsang at #PiWars
+Finley Watson talks about his experiences developing and competing with the Raspberry Pi powered robot he built, Lobsang.
+
 **More speakers to be announced soon!**
 
 ### Schedule
