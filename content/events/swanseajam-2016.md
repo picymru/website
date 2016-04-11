@@ -28,6 +28,10 @@ Join Douglas Gore, co-founder of PiCymru as he talks about its lasting effect on
 ##### @welshgeekboy and #Lobsang at #PiWars
 Finley Watson talks about his experiences developing and competing with the Raspberry Pi powered robot he built, Lobsang.
 
+#### Julian Milligan
+##### Adventures in Minecraft Pi
+Join Julian Milligan, project leader for PiCymru's first supported project - CoderDojo Carmarthen, as he leads you on a mystical and mysterious adventure through the lands of Minecraftia using your Raspberry Pi. From making your character into King Midas, and rigging all manner of explosions. All we know, should you see a creeper, you may need to run.
+
 **More speakers to be announced soon!**
 
 ### Schedule
