@@ -36,6 +36,12 @@ Join Julian Milligan, project leader for PiCymru's first supported project - Cod
 ##### Tiny but mighty: exploring the untapped potential of the Raspberry Pi
 Join games programmer Tim Lewis as he talks about some of the projects he's been working on and workshops he's run using the surprisingly capable Raspberry Pi computers. From robotics to realtime 3D graphics - we've only just begun to scratch the surface of what these remarkable machines are capable of.
 
+#### Giakonda IT
+##### Taking the Pi Off Grid
+Giakonda have been involved in bringing the Raspberry Pi to classrooms in Siavonga, Zambia. This task is not straightforward when many classrooms in Africa do not have electricity.
+
+Join Giakonda as they show us how they implemented Raspberry Pi classrooms using solar power.
+
 **More speakers to be announced soon!**
 
 ### Schedule
