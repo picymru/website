@@ -5,7 +5,7 @@ title = "Terms of Use"
 
 Welcome to the website for PiCymru. If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern PiCymru’s relationship with you in relation to this website.
 
-The term ‘PiCymru’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is PiCymru, Flat 2, Danvers House, London, E11RU. The term ‘you’ refers to the user or viewer of our website.
+The term ‘PiCymru’ or ‘us’ or ‘we’ refers to the owner of the website whose registered office is PiCymru, TechHub Swansea - Urban Village, 221 High Street, Swansea, SA1 1NW, United Kingdom. The term ‘you’ refers to the user or viewer of our website.
 
 The use of this website is subject to the following terms of use:
 
