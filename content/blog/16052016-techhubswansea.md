@@ -1,5 +1,5 @@
 +++
-date = "2016-05-22T08:00:080Z"
+date = "2016-05-22T08:00:00Z"
 postType = "blog"
 title = "New friends... TechHub Swansea"
 +++
