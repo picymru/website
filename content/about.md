@@ -19,3 +19,6 @@ By trade an embedded systems engineer, Doug is a geek, pure and simple. When he 
 ### Project Leaders
 #### Julian Milligan
 Inspired by a talk by our founder, Matthew Gall, about the importance of spreading knowledge, Julian became a STEM ambassador and later founded a CoderDojo in his home town of Carmarthen. Julian was inaugarated as the first PiCymru project leader on Saturday 7th June.
+
+#### Rob Miller
+Previously a science and technology communicator, Rob is a STEM ambassador and travels the lengths and bredths of Wales to educate children and young people. Rob is leading our educational outreach programme and curriculum design.
