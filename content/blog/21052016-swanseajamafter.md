@@ -2,6 +2,7 @@
 date = "2016-05-21T20:50:53Z"
 postType = "blog"
 title = "Swansea Jam, after the event..."
+draft = true
 +++
 
 PiCymru hosted it's 3rd Raspberry Jam on Sunday 15th May 2016. For this Jam we returned to our roots with a single room, talk focused event at the excellent TechHub Swansea. TechHub's event space was bigger and better this time as they had recently moved to a stunning new building in Urban Village on the High Street.

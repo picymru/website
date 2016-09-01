@@ -1,2 +1,2 @@
 #!/bin/sh
-hugo server --bind=$HOST --port=$PORT
+hugo server --disableLiveReload --bind=$HOST --port=$PORT
