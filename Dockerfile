@@ -6,10 +6,10 @@ ENV PORT 80
 ENV HUGO_VERSION 0.16
 ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
 
-ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY}.tgz /usr/local/
-RUN tar xzf /usr/local/${HUGO_BINARY}.tgz -C /usr/local/ \
-	&& ln -s /usr/local/${HUGO_BINARY}/${HUGO_BINARY} /usr/local/bin/hugo \
-	&& rm /usr/local/${HUGO_BINARY}.tgz
+ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY}.tgz /tmp
+RUN tar xzf /tmp/${HUGO_BINARY}.tgz -C /tmp \
+	&& ln -s /tmp/hugo /usr/local/bin/hugo \
+	&& rm /tmp/${HUGO_BINARY}.tgz
 
 WORKDIR /app
 COPY . /app
