@@ -4,7 +4,7 @@ MAINTAINER Matthew Gall <matthew@picymru.org.uk>
 ENV HOST 127.0.0.1
 ENV PORT 80
 ENV HUGO_VERSION 0.16
-ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-amd64
+ENV HUGO_BINARY hugo_${HUGO_VERSION}_linux-64bit
 
 ADD https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/${HUGO_BINARY}.tgz /usr/local/
 RUN tar xzf /usr/local/${HUGO_BINARY}.tgz -C /usr/local/ \
