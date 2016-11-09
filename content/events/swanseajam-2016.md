@@ -4,6 +4,7 @@ title = "Swansea Jam"
 postType = "event"
 eventTime = "Sunday, 15 May 2016 from 10:00 to 16:00 (BST)"
 eventUrl = "https://www.eventbrite.co.uk/e/swansea-jam-tickets-23798915196"
+draft = true
 +++
 
 PiCymru is back with another Raspberry Jam event in Swansea, this time at TechHub's new premises in the heart of Swansea.
