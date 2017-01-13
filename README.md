@@ -1,7 +1,5 @@
 # picymru/website
 
-[![Docker Repository on Quay](https://quay.io/repository/picymru/website/status "Docker Repository on Quay")](https://quay.io/repository/picymru/website) [![GitHub license](https://img.shields.io/github/license/picymru/website.svg)]()
-
 We're committed to being open about how we work, so how better than to completely open source our website!
 
 ## Building
@@ -24,7 +22,7 @@ We're committed to being open about how we work, so how better than to completel
 ## License
     MIT License
     
-    Copyright (c) 2016 Matthew Gall
+    Copyright (c) 2015 - 2017 PiCymru
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
