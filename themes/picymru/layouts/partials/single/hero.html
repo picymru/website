@@ -1,7 +1,9 @@
 <section class="hero">
 	<div class="container">
-		<h1>
-			{{ .Title }}
-		</h1>
+			{{ if eq .Params.posttype "blog"}}
+				<h1 style="font-size: 40px">{{ .Title }}</h1>
+			{{ else }}
+				<h1>{{ .Title }}</h1>
+			{{ end }}
 	</div>
 </section>
