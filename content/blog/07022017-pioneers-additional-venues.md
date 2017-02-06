@@ -18,7 +18,7 @@ Douglas Gore, founder of PiCymru said "With the addition of Cardiff University's
  
 Catherine Teehan, Placement Office at Cardiff University commented "Software development really is an exciting, and growing, line of work that provides so many opportunities to work on a range of projects in a variety of sectors. We hope that by supporting events like the ‘Pioneer’ competition we can inspire the next generation to consider studying and working in this field.”
  
-“We are delighted to be welcome these highly talented coders to the University on Feb 17th to test out their software engineering skills as part of this national competition. We are looking forward to seeing the students’ innovative creations on display and hope that they will gain a wealth of experience from the activities that we have organised for them.”
+“We are delighted to welcome these highly talented coders to the University on Feb 17th to test out their software engineering skills as part of this national competition. We are looking forward to seeing the students’ innovative creations on display and hope that they will gain a wealth of experience from the activities that we have organised for them.”
  
 ### About PiCymru
 PiCymru is a not-for-profit organisation, set up in 2010 based in Swansea setup to promote digital literacy and encouraging learning and development in Wales through the design and development of programmes of work, and provision of facilities around Wales. PiCymru is a volunteer-led, not for profit group and is in no way affiliated with the Raspberry Pi Foundation.
