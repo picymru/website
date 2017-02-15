@@ -1,5 +1,5 @@
 NAME := picymru/website
-VERSION := 2016.9.0
+VERSION := 2017.2.0
 
 .PHONY: build
 build:
